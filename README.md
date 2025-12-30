@@ -6,8 +6,6 @@
 
 Here is my blog! >>> [🌷🌷🌷](https://hugo-blog-p91.pages.dev/)
 
-![Metrics](https://github.com/Tsukichan555/Tsukichan555/blob/main/metrics.plugin.topics.svg)
-
 <p align="left">
   <picture>
         <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
