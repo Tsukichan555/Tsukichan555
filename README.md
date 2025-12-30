@@ -6,13 +6,6 @@
 
 Here is my blog! >>> [🌷🌷🌷](https://hugo-blog-p91.pages.dev/)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tsukichan555&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tsukichan555&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tsukichan555&theme=juicyfresh&no-bg=true" />
-
 ![Metrics](https://github.com/Tsukichan555/Tsukichan555/blob/main/metrics.plugin.topics.svg)
 
 <p align="left">
